@@ -7,3 +7,12 @@ source venv/bin/activate
 
 - Untuk pindah ke folder aplikasi:
 cd ~/roundrobin-lb
+
+- Untuk cek ip adress Ubuntu:
+ip a
+
+- untuk cek ip adress Windows:
+ipconfig
+
+- Untuk menjalankan aplikasi menggunakan flask:
+python3 [nama_app].py - contoh: python3 agent1.py
