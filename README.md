@@ -1,8 +1,7 @@
 # Implementasi Algoritma Round Robin  
-### 💻 Sistem Multi-Agent dan Multi-Client untuk Load Balancing Dinamis  
+### Sistem Multi-Agent dan Multi-Client untuk Load Balancing Dinamis  
 
-Repositori ini berisi implementasi lengkap **algoritma Round Robin** untuk mendistribusikan beban permintaan antar dua server backend (Agent-1 dan Agent-2) di jaringan lokal (LAN).  
-Proyek ini dikembangkan sebagai bagian dari penelitian dan praktikum **Jaringan Komputer & Sistem Terdistribusi** di Universitas Sulawesi Barat.
+Repositori ini berisi implementasi lengkap **algoritma Round Robin** untuk mendistribusikan beban permintaan antar dua server backend (Agent-1 dan Agent-2) di jaringan lokal (LAN). Proyek ini dikembangkan sebagai bagian dari penelitian dan praktikum **Jaringan Komputer & Sistem Terdistribusi** di Universitas Sulawesi Barat.
 
 ---
 
