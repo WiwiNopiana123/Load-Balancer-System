@@ -38,9 +38,9 @@ Berikut tiga file `.ipynb` utama yang berisi kode dan panduan lengkap proyek ini
 
 | 🧾 No | 📁 File | 📖 Deskripsi | 🔗 Akses |
 |:--:|:--|:--|:--|
-| 1️⃣ | **`panduan_roundrobin_python_flask`** | Panduan lengkap konfigurasi Python Flask (Load Balancer) sebagai Load Balancer manual. | [📘 Lihat Notebook](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main/panduan_roundrobin_python_flask.ipynb) |
-| 2️⃣ | **`panduan_roundrobin_html`** | Panduan praktis menjalankan sistem di 2 komputer (Windows + Ubuntu). | [📘 Lihat Notebook](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main/panduan_roundrobin_html.ipynb) |
-| 3️⃣ | **`panduan_roundrobin_nginx`** | Panduan lengkap konfigurasi NGINX sebagai Load Balancer otomatis. | [📘 Lihat Notebook](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main//panduan_roundrobin_nginx.ipynb) |
+| 1️⃣ | **`panduan_roundrobin_python_flask`** | Panduan lengkap konfigurasi Python Flask (Load Balancer) sebagai Load Balancer manual. | [📘Lihat](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main/panduan_roundrobin_python_flask.ipynb) |
+| 2️⃣ | **`panduan_roundrobin_html`** | Panduan lengkap konfigurasi Load Blancer manual dengan .html + Python Flask | [📘Lihat](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main/panduan_roundrobin_html.ipynb) |
+| 3️⃣ | **`panduan_roundrobin_nginx`** | Panduan lengkap konfigurasi NGINX sebagai Load Balancer otomatis. | [📘Lihat](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main//panduan_roundrobin_nginx.ipynb) |
 
 ---
 
@@ -83,12 +83,12 @@ loadbalancer/
 
 | Versi | Teknologi | Load Balancer | File Panduan |
 |:------|:-----------|:----------------|:---------------|
-| 🧠 **Versi 1** | Python Flask | `load_balancer.py` (Manual) | [`roundrobin-python.ipynb`](./roundrobin-python.ipynb) |
-| ⚙️ **Versi 2** | NGINX Reverse Proxy | `nginx.service` (Otomatis) | [`panduan_nginx_roundrobin.ipynb`](./panduan_nginx_roundrobin.ipynb) |
+| 🧠 **Versi 1** | Python Flask | `load_balancer.py` (Manual) | [`panduan_roundrobin_python_flask`](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main/panduan_roundrobin_python_flask.ipynb) |
+| ⚙️ **Versi 2** | NGINX Reverse Proxy | `nginx.service` (Otomatis) | [`panduan_roundrobin_nginx.ipynb`](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main//panduan_roundrobin_nginx.ipynb) |
 
 ---
 
-## 🧩 Cara Membedakan Flask LB vs NGINX LB
+## 🧩 Cara Membedakan Flask Load Balancer vs NGINX Load Balancer
 
 | Ciri | Flask LB Aktif | NGINX LB Aktif |
 |:------|:----------------|:----------------|
@@ -116,12 +116,8 @@ Supervised by **Muh. Fuad Mansyur** & **Wawan Firgiawan**
 
 ---
 
-<div align="center">
-
 📍 **Repository GitHub:**  
 👉 [WiwiNopiana123/Load-Balancer-System](https://github.com/WiwiNopiana123/Load-Balancer-System)
 
 ⭐ Jangan lupa beri bintang jika repositori ini bermanfaat 🙌  
 🧠 *"Simple architecture, powerful balance."* ⚖️
-
-</div>
