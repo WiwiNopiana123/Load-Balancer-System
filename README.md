@@ -105,6 +105,8 @@ curl -I http://192.168.1.72:8000/
 ```
 Jika muncul `Server: nginx` → artinya sistem aktif menggunakan **NGINX** sebagai Load Balancer.
 
+sudo nano /etc/nginx/sites-available/roundrobin-lb
+
 ---
 
 ## 👨‍💻 Penulis
