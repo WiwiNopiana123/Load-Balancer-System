@@ -1,0 +1,9 @@
+#####> Load-Balancer-System
+- Untuk konfigurasi ip adress sistem:
+sudo nano /etc/nginx/sites-available/roundrobin-lb
+
+Untuk aktifkan virtual envirotment:
+source venv/bin/activate
+
+- Untuk pindah ke folder aplikasi:
+cd ~/roundrobin-lb
