@@ -16,3 +16,9 @@ ipconfig
 
 - Untuk menjalankan aplikasi menggunakan flask:
 python3 [nama_app].py - contoh: python3 agent1.py
+
+- Cek NGINX:
+sudo lsof -i :8000
+systemctl status nginx
+curl -I http://192.168.1.72:8000/
+Jika Server: nginx → berarti benar-benar pakai NGINX.
