@@ -1,9 +1,5 @@
-<div align="center">
-
-# ⚙️ Implementasi Algoritma Round Robin  
+# Implementasi Algoritma Round Robin  
 ### 💻 Sistem Multi-Agent dan Multi-Client untuk Load Balancing Dinamis  
-
-</div>
 
 Repositori ini berisi implementasi lengkap **algoritma Round Robin** untuk mendistribusikan beban permintaan antar dua server backend (Agent-1 dan Agent-2) di jaringan lokal (LAN).  
 Proyek ini dikembangkan sebagai bagian dari penelitian dan praktikum **Jaringan Komputer & Sistem Terdistribusi** di Universitas Sulawesi Barat.
@@ -89,9 +85,9 @@ loadbalancer/
 
 Untuk petunjuk langkah demi langkah dan kode lengkap, buka file notebook berikut:
 
-- 📘 [Round Robin dengan Flask LB](./roundrobin-python.ipynb)
-- 💻 [Panduan 2 Komputer (Windows + Ubuntu)](./petunjuk_roundrobin_dua_komputer.ipynb)
-- ⚙️ [Implementasi NGINX Load Balancer](./panduan_nginx_roundrobin.ipynb)
+- 📘 [Panduan Roundrobin Python Flask](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main/panduan_roundrobin_python_flask.ipynb)
+- 💻 [Panduan Roundrobin di .html)](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main/panduan_roundrobin_html.ipynb)
+- ⚙️ [Panduan Roundrobin menggunakan NGINX](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main//panduan_roundrobin_nginx.ipynb)
 
 > Semua notebook dapat dijalankan langsung melalui **Jupyter Notebook**, **VS Code**, atau **Google Colab**.
 
