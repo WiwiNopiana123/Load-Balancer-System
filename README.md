@@ -38,9 +38,9 @@ Berikut tiga file `.ipynb` utama yang berisi kode dan panduan lengkap proyek ini
 
 | 🧾 No | 📁 File | 📖 Deskripsi | 🔗 Akses |
 |:--:|:--|:--|:--|
-| 1️⃣ | **`roundrobin-python.ipynb`** | Implementasi Round Robin berbasis Python Flask (Load Balancer manual). | [📘 Lihat Notebook](./roundrobin-python.ipynb) |
-| 2️⃣ | **`petunjuk_roundrobin_dua_komputer.ipynb`** | Panduan praktis menjalankan sistem di 2 komputer (Windows + Ubuntu). | [📘 Lihat Notebook](./petunjuk_roundrobin_dua_komputer.ipynb) |
-| 3️⃣ | **`panduan_nginx_roundrobin.ipynb`** | Panduan lengkap konfigurasi NGINX sebagai Load Balancer otomatis. | [📘 Lihat Notebook](./panduan_nginx_roundrobin.ipynb) |
+| 1️⃣ | **`panduan_roundrobin_python_flask`** | Panduan lengkap konfigurasi Python Flask (Load Balancer) sebagai Load Balancer manual. | [📘 Lihat Notebook](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main/panduan_roundrobin_python_flask.ipynb) |
+| 2️⃣ | **`panduan_roundrobin_html`** | Panduan praktis menjalankan sistem di 2 komputer (Windows + Ubuntu). | [📘 Lihat Notebook](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main/panduan_roundrobin_html.ipynb) |
+| 3️⃣ | **`panduan_roundrobin_nginx`** | Panduan lengkap konfigurasi NGINX sebagai Load Balancer otomatis. | [📘 Lihat Notebook](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main//panduan_roundrobin_nginx.ipynb) |
 
 ---
 
@@ -78,20 +78,6 @@ loadbalancer/
 ├── README.md
 └── lb_log.csv   ← hasil log pengujian
 ```
-
----
-
-## 🔍 Dokumentasi Lengkap
-
-Untuk petunjuk langkah demi langkah dan kode lengkap, buka file notebook berikut:
-
-- 📘 [Panduan Roundrobin Python Flask](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main/panduan_roundrobin_python_flask.ipynb)
-- 💻 [Panduan Roundrobin di .html)](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main/panduan_roundrobin_html.ipynb)
-- ⚙️ [Panduan Roundrobin menggunakan NGINX](https://github.com/WiwiNopiana123/Load-Balancer-System/blob/main//panduan_roundrobin_nginx.ipynb)
-
-> Semua notebook dapat dijalankan langsung melalui **Jupyter Notebook**, **VS Code**, atau **Google Colab**.
-
----
 
 ## 🧩 Versi Implementasi
 
