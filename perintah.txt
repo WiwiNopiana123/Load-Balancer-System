@@ -27,3 +27,5 @@ Jika Server: nginx → berarti benar-benar pakai NGINX.
 Lakukan perubahan di terminal ubuntu dengan: sudo nano /etc/nginx/sites-available/roundrobin-lb
 sudo nginx -t
 sudo systemctl reload nginx
+
+Langkah terakhir: http://192.168.1.72:8000/ [sesuaikan IP nya]
